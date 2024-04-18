@@ -173,6 +173,7 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
+				'NEWWIKI', // The new home of the PojavLauncher wiki
 				'UNJAIL', // Bringing PojavLauncher to unjailbroken iOS
 				'IOS-SUPPORT', // System support in future versions of PojavLauncher iOS
 				'LOCAL-MODE', // Offline mode is going places

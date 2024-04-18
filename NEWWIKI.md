@@ -1,0 +1,6 @@
+# The Road Ahead for PojavWiki
+Due to how much inactivity the former `(PojavLauncherTeam/PojavLauncherTeam.github.io)` has gathered; with **4 months** since last commit and **8 months** since changes were actually deployed; [Harei](https://github.com/hareiikundev), one of the lead maintainers, has called to **sunset the repository**
+
+> This was mainly due to deployment, Before the responsibility of maintaining the wiki came down to me; [crystall1nedev]() regularly updates the `ACCESS_TOKEN` secret every 3 months. I dont know why the secret expires every 3 months though, but it must've been for security purposes. Having cut ties with her recently (or should i say, months ago), i've failed to keep communication open to keep her informed about updating the token. A few months passed and contributors keeped updating the wiki through PRs, but none of them get deployed, even if the in-charge at the time of my leaving (Aero) was merging them.
+
+PojavWiki is now a community maintained project, but still officially aofoojavLauncher Team.
