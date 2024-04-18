@@ -9,5 +9,5 @@ actionText: Get Started →
 actionLink: /INSTALL.md
 
 copyright: false
-footer: We're still cooking in the kitchen | Affiliated by PojavLauncherTeam
+footer: We're still cooking in the kitchen | Project Affiliated with PojavLauncherTeam
 ---
