@@ -73,13 +73,7 @@ module.exports = {
 		editLinkText: 'Help us improve this page!',
         logo: 'logo.png',
 
-          sidebar: [
-            {
-             
-                'test' // test
-                
-             
-            },
+        sidebar: [
         {
             title: 'Wiki', // Category for information
             collapsable: false,
