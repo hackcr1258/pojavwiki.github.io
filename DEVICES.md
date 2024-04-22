@@ -25,6 +25,6 @@
 - 1GB RAM
 
 ### Recommended requirements:
-- Apple A14/A12X Bionic SoC
+- Apple A11 - A14/A12X Bionic SoC
 - iOS 14
 - 4GB RAM

@@ -2,7 +2,8 @@
 Not everything that works on PC works on PojavLauncher. Below is a non-exhaustive list of mods that **may** not work.
 
 ## Performance Mods + Shaders
-- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) **([patch](https://www.mediafire.com/folder/n004fh6pxuxk8/Sodium_1.17%2B) for GL4ES)**
+- [Sodium](https://modrinth.com/mod/sodium) **([patch](https://www.mediafire.com/folder/n004fh6pxuxk8/Sodium_1.17%2B) for GL4ES)** - Until now, the sodium 0.4.10 patch still does work and its available in the PojavLauncher Discord server, however ever since Sodium has ever updated to 0.5.x, the patch no longer work on the newer version as you will not be able to see the terrain, disabling terrain optimization mixins is the only way which is not recommended to do nor even use it.
+- [Embeddium](https://modrinth.com/mod/embeddium) - you cannot see the terrain, therefore it is unplayable, same as Sodium.
 - [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium/files) **([patch](https://www.mediafire.com/folder/jcyrf8l0osn4m/Rubidium_1.17%2B) for GL4ES)**
 - [Chlorine](https://www.curseforge.com/minecraft/mc-mods/chlorine)
 - [ShadersMod (GLSL Shaders)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286604-shaders-mod-updated-by-karyonix)
