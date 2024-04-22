@@ -75,10 +75,10 @@ module.exports = {
 
           sidebar: [
             {
-              children: [
+             
                 'test' // test
                 
-              ]
+             
             },
         {
             title: 'Wiki', // Category for information
