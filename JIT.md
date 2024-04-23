@@ -21,5 +21,5 @@ If you sideload normally, you will need to enable JIT in some way. The most comm
 
 You can also use [AltStore](https://faq.altstore.io/how-to-use-altstore/altjit), [SideStore](https://wiki.sidestore.io/guides/getting-started/#setting-up-wireguard), or, for more advanced users, [Jitterbug](https://github.com/osy/Jitterbug/tree/main/Jitterbug). Methods not listed here are not confirmed or recommended by us for use with PojavLauncher.
 
-##JIT for iOS 17 users
+## JIT for iOS 17 users
 Apple has patched a critical bug that allowed on device JIT and hence [SideServer](https://www.youtube.com/watch?v=1D-hRb3FRGc) is the only way to enable JIT at the moment
